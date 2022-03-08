@@ -19,9 +19,9 @@ To Use:
 13. Click the cloud icon with the up arrow to create the stack
 14. Click Next
 15. On the stack details page, provide the value of your choice
-    Stack name: [NAME_OF_THE_STACK]
-    InstanceType: [TYPE_OF_INSTANCE]
-    keyName: [THE_KEY_NAME_CREATED_EARLIER]
+    *   Stack name: [NAME_OF_THE_STACK]
+    *   InstanceType: [TYPE_OF_INSTANCE]
+    *   keyName: [THE_KEY_NAME_CREATED_EARLIER]
 16. Click Next
 17. Leave the default settings on the stack options page
 18. Click Next
