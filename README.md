@@ -1,6 +1,6 @@
 # aws-cloudformation-websever-deploy
 
-This CloudFormation Infrastructure as Code module allows you to deploy a Web Server stack that is publicly available on an EC2 instance.
+This CloudFormation Infrastructure as Code module allows you to deploy a Web Server stack that is publicly available on an AWS EC2 instance.
 
 To Use:
 
